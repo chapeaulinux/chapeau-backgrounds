@@ -6,18 +6,18 @@
     <name xml:lang="en_GB">Chapeau Grassy Logo</name>
     <filename>/usr/share/backgrounds/chapeau/chapeau_grassy_branded_wallpaper.jpg</filename>
     <options>zoom</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#667852</pcolor>
-    <scolor>#deb984</scolor>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#deb984</pcolor>
+    <scolor>#667852</scolor>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Chapeau Grassy</name>
     <name xml:lang="en_GB">Chapeau Grassy</name>
     <filename>/usr/share/backgrounds/chapeau/chapeau_grassy_wallpaper.jpg</filename>
-    <options>zoom</options>
+    <options>vertical-gradient</options>
     <shade_type>solid</shade_type>
-    <pcolor>#667852</pcolor>
-    <scolor>#deb984</scolor>
+    <pcolor>#deb984</pcolor>
+    <scolor>#667852</scolor>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Chapeau Blue Boards Logo</name>
@@ -42,7 +42,7 @@
     <name xml:lang="en_GB">Chapeau Earthy</name>
     <filename>/usr/share/backgrounds/chapeau/chapeau_earthy_wallpaper.jpg</filename>
     <options>zoom</options>
-    <shade_type>solid</shade_type>
+    <shade_type>vertical-gradient</shade_type>
     <pcolor>#6b7956</pcolor>
     <scolor>#d0a153</scolor>
   </wallpaper>
@@ -51,9 +51,9 @@
     <name xml:lang="en_GB">Chapeau Coastal Logo</name>
     <filename>/usr/share/backgrounds/chapeau/chapeau_coastal_wallpaper.jpg</filename>
     <options>zoom</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#61bbbc</pcolor>
-    <scolor>#bac198</scolor>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#bac198</pcolor>
+    <scolor>#61bbbc</scolor>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Chapeau Dusky</name>
@@ -63,6 +63,78 @@
     <shade_type>solid</shade_type>
     <pcolor>#5b8d94</pcolor>
     <scolor>#b79188</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Blue Blur</name>
+    <name xml:lang="en_GB">Blue Blur</name>
+    <filename>/usr/share/backgrounds/chapeau/blue_blur_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#3d3c41</pcolor>
+    <scolor>#335a61</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Blue Fade</name>
+    <name xml:lang="en_GB">Blue Fade</name>
+    <filename>/usr/share/backgrounds/chapeau/blue_fade_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#7bb0c2</pcolor>
+    <scolor>#223e53</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Cloud Shards</name>
+    <name xml:lang="en_GB">Cloud Shards</name>
+    <filename>/usr/share/backgrounds/chapeau/cloud_shards_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#7bb1a4</pcolor>
+    <scolor>#9bae80</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Grass Bokeh</name>
+    <name xml:lang="en_GB">Grass Bokeh</name>
+    <filename>/usr/share/backgrounds/chapeau/grass_bokeh_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#567201</pcolor>
+    <scolor>#979668</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Grass Macro</name>
+    <name xml:lang="en_GB">Grass Macro</name>
+    <filename>/usr/share/backgrounds/chapeau/grass_macro_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#7db665</pcolor>
+    <scolor>#1f4b2a</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Purple Shade</name>
+    <name xml:lang="en_GB">Purple Shade</name>
+    <filename>/usr/share/backgrounds/chapeau/purple_shade_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#473c4d</pcolor>
+    <scolor>#957a8d</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Sycamore Canopy</name>
+    <name xml:lang="en_GB">Sycamore Canopy</name>
+    <filename>/usr/share/backgrounds/chapeau/sycamore_canopy_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#2f5b00</pcolor>
+    <scolor>#add441</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Branch Bokeh</name>
+    <name xml:lang="en_GB">Branch Bokeh</name>
+    <filename>/usr/share/backgrounds/chapeau/branch_bokeh_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#bbbbbb</pcolor>
+    <scolor>#656565</scolor>
   </wallpaper>
 </wallpapers>
 

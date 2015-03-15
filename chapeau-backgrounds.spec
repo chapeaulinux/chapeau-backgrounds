@@ -1,5 +1,5 @@
 Name:           chapeau-backgrounds
-Version:        1.0
+Version:        1.1
 Release:        1%{?dist}
 Summary:        Backgrounds for Chapeau
 
@@ -41,5 +41,8 @@ rm -rf $RPM_BUILD_ROOT
 %{_datadir}/gnome-background-properties
 
 %changelog
+* Thu Jan 15 2015 Vince Pooley <vince@chapeaulinux.org> - 1.1-1
+- Additional backgrounds and amended shade types
+
 * Thu Jan 08 2015 Vince Pooley <vince@chapeaulinux.org> - 1.0-1
 - Initial release
