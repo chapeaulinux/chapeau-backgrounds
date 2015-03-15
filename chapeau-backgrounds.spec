@@ -1,6 +1,6 @@
 Name:           chapeau-backgrounds
 Version:        1.1
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        Backgrounds for Chapeau
 
 Group:          Applications/Multimedia
@@ -41,6 +41,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_datadir}/gnome-background-properties
 
 %changelog
+* Sun Feb 01 2015 Vince Pooley <vince@chapeaulinux.org> - 1.1-2
+- Fixed incorrect option & shade type on Chapeau Grassy background.
+
 * Thu Jan 15 2015 Vince Pooley <vince@chapeaulinux.org> - 1.1-1
 - Additional backgrounds and amended shade types
 

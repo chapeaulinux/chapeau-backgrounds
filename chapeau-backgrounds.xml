@@ -14,8 +14,8 @@
     <name>Chapeau Grassy</name>
     <name xml:lang="en_GB">Chapeau Grassy</name>
     <filename>/usr/share/backgrounds/chapeau/chapeau_grassy_wallpaper.jpg</filename>
-    <options>vertical-gradient</options>
-    <shade_type>solid</shade_type>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
     <pcolor>#deb984</pcolor>
     <scolor>#667852</scolor>
   </wallpaper>
