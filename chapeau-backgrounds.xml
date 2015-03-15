@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Chapeau Grassy Logo</name>
+    <name xml:lang="en_GB">Chapeau Grassy Logo</name>
+    <filename>/usr/share/backgrounds/chapeau/chapeau_grassy_branded_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#667852</pcolor>
+    <scolor>#deb984</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Chapeau Grassy</name>
+    <name xml:lang="en_GB">Chapeau Grassy</name>
+    <filename>/usr/share/backgrounds/chapeau/chapeau_grassy_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#667852</pcolor>
+    <scolor>#deb984</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Chapeau Blue Boards Logo</name>
+    <name xml:lang="en_GB">Chapeau Blue Boards Logo</name>
+    <filename>/usr/share/backgrounds/chapeau/chapeau_blueboards_branded_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#384352</pcolor>
+    <scolor>#467815</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Chapeau Blue Boards</name>
+    <name xml:lang="en_GB">Chapeau Blue Boards</name>
+    <filename>/usr/share/backgrounds/chapeau/chapeau_blueboards_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#384352</pcolor>
+    <scolor>#467815</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Chapeau Earthy</name>
+    <name xml:lang="en_GB">Chapeau Earthy</name>
+    <filename>/usr/share/backgrounds/chapeau/chapeau_earthy_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#6b7956</pcolor>
+    <scolor>#d0a153</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Chapeau Coastal Logo</name>
+    <name xml:lang="en_GB">Chapeau Coastal Logo</name>
+    <filename>/usr/share/backgrounds/chapeau/chapeau_coastal_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#61bbbc</pcolor>
+    <scolor>#bac198</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Chapeau Dusky</name>
+    <name xml:lang="en_GB">Chapeau Dusky</name>
+    <filename>/usr/share/backgrounds/chapeau/chapeau_dusky_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#5b8d94</pcolor>
+    <scolor>#b79188</scolor>
+  </wallpaper>
+</wallpapers>
+
+
