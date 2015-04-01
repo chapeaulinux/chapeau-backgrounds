@@ -136,6 +136,49 @@
     <pcolor>#bbbbbb</pcolor>
     <scolor>#656565</scolor>
   </wallpaper>
+  <wallpaper deleted="false">
+    <name>Spring Buds</name>
+    <name xml:lang="en_GB">Spring Buds</name>
+    <filename>/usr/share/backgrounds/chapeau/green_buds_dof_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#f6f6f4</pcolor>
+    <scolor>#9ca187</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Modern Exterior</name>
+    <name xml:lang="en_GB">Modern Exterior</name>
+    <filename>/usr/share/backgrounds/chapeau/modern_exterior_decking.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#7dc0dd</pcolor>
+    <scolor>#95dd3a</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ethereal Logo</name>
+    <name xml:lang="en_GB">Ethereal Logo</name>
+    <filename>/usr/share/backgrounds/chapeau/ethereal_branded_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#e3bbaa</pcolor>
+    <scolor>#535340</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ethereal</name>
+    <name xml:lang="en_GB">Ethereal</name>
+    <filename>/usr/share/backgrounds/chapeau/ethereal_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#e3bbaa</pcolor>
+    <scolor>#535340</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Alone</name>
+    <name xml:lang="en_GB">Alone</name>
+    <filename>/usr/share/backgrounds/chapeau/alone_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#c4ccc0</pcolor>
+    <scolor>#d7c2a0</scolor>
+  </wallpaper>
 </wallpapers>
-
-
