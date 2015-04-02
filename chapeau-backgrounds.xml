@@ -181,4 +181,13 @@
     <pcolor>#c4ccc0</pcolor>
     <scolor>#d7c2a0</scolor>
   </wallpaper>
+  <wallpaper deleted="false">
+    <name>Evergreen</name>
+    <name xml:lang="en_GB">Evergreen</name>
+    <filename>/usr/share/backgrounds/chapeau/evergreen_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#e3df86</pcolor>
+    <scolor>#3c7562</scolor>
+  </wallpaper>
 </wallpapers>
