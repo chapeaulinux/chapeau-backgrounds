@@ -1,6 +1,6 @@
 Name:           chapeau-backgrounds
 Version:        1.1
-Release:        3%{?dist}
+Release:        4%{?dist}
 Summary:        Backgrounds for Chapeau
 
 Group:          Applications/Multimedia
@@ -15,7 +15,7 @@ BuildArch:      noarch
 A selection of backgrounds for the Chapeau linux distribution
 
 %prep
-%setup -q
+%setup -c
 
 
 %build
@@ -41,6 +41,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_datadir}/gnome-background-properties
 
 %changelog
+* Tue Nov 03 2015 Vince Pooley <vince@chapeaulinux.org> - 1.1-4
+- Additional backgrounds including Chapeau 23's default
+
 * Wed Apr 01 2015 Vince Pooley <vince@chapeaulinux.org> - 1.1-3
 - Additional backgrounds including Chapeau 22's default
 

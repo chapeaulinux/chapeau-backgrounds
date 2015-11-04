@@ -190,4 +190,49 @@
     <pcolor>#e3df86</pcolor>
     <scolor>#3c7562</scolor>
   </wallpaper>
+  <wallpaper deleted="false">
+    <name>Beaten Copper</name>
+    <name xml:lang="en_GB">Beaten Copper</name>
+    <filename>/usr/share/backgrounds/chapeau/beaten_copper_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#e08652</pcolor>
+    <scolor>#791d28</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Purple Mist</name>
+    <name xml:lang="en_GB">Purple Mist</name>
+    <filename>/usr/share/backgrounds/chapeau/purple_mist_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#473c4d</pcolor>
+    <scolor>#957a8d</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Magenta Mist</name>
+    <name xml:lang="en_GB">Magenta Mist</name>
+    <filename>/usr/share/backgrounds/chapeau/magenta_mist_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#5f8e7e</pcolor>
+    <scolor>#01545a</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Misty Blur with Chapeau logo</name>
+    <name xml:lang="en_GB">Misty Blur with Chapeau logo</name>
+    <filename>/usr/share/backgrounds/chapeau/chapeau_misty_blur_branded_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#e4cd82</pcolor>
+    <scolor>#3f5e5a</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Misty Blur</name>
+    <name xml:lang="en_GB">Misty Blur</name>
+    <filename>/usr/share/backgrounds/chapeau/chapeau_misty_blur_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#e4cd82</pcolor>
+    <scolor>#3f5e5a</scolor>
+  </wallpaper>
 </wallpapers>
