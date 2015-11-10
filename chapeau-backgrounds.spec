@@ -1,6 +1,6 @@
 Name:           chapeau-backgrounds
 Version:        1.1
-Release:        4%{?dist}
+Release:        5%{?dist}
 Summary:        Backgrounds for Chapeau
 
 Group:          Applications/Multimedia
@@ -41,6 +41,10 @@ rm -rf $RPM_BUILD_ROOT
 %{_datadir}/gnome-background-properties
 
 %changelog
+* Tue Nov 10 2015 Vince Pooley <vince@chapeaulinux.org> - 1.1-5
+- Even more tasty backgrounds
+- Tweaked chapeau_misty_blur_branded_wallpaper.jpg
+
 * Tue Nov 03 2015 Vince Pooley <vince@chapeaulinux.org> - 1.1-4
 - Additional backgrounds including Chapeau 23's default
 

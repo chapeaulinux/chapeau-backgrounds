@@ -222,7 +222,7 @@
     <name xml:lang="en_GB">Misty Blur with Chapeau logo</name>
     <filename>/usr/share/backgrounds/chapeau/chapeau_misty_blur_branded_wallpaper.jpg</filename>
     <options>zoom</options>
-    <shade_type>horizontal-gradient</shade_type>
+    <shade_type>vertical-gradient</shade_type>
     <pcolor>#e4cd82</pcolor>
     <scolor>#3f5e5a</scolor>
   </wallpaper>
@@ -231,8 +231,139 @@
     <name xml:lang="en_GB">Misty Blur</name>
     <filename>/usr/share/backgrounds/chapeau/chapeau_misty_blur_wallpaper.jpg</filename>
     <options>zoom</options>
-    <shade_type>horizontal-gradient</shade_type>
+    <shade_type>vertical-gradient</shade_type>
     <pcolor>#e4cd82</pcolor>
     <scolor>#3f5e5a</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Branch Bark DOF</name>
+    <name xml:lang="en_GB">Branch Bark DOF</name>
+    <filename>/usr/share/backgrounds/chapeau/branch_bark_dof.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#afcdbe</pcolor>
+    <scolor>#8bb392</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Deep Winter Trees</name>
+    <name xml:lang="en_GB">Deep Winter Trees</name>
+    <filename>/usr/share/backgrounds/chapeau/deep_winter_trees.png</filename>
+    <options>zoom</options>
+    <shade_type>radial-gradient</shade_type>
+    <pcolor>#d2e3dd</pcolor>
+    <scolor>#8299a1</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Eiffel DOF</name>
+    <name xml:lang="en_GB">Eiffel DOF</name>
+    <filename>/usr/share/backgrounds/chapeau/eiffel_dof.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#e5e8d7</pcolor>
+    <scolor>#b8a384</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Heads of Grass</name>
+    <name xml:lang="en_GB">Heads of Grass</name>
+    <filename>/usr/share/backgrounds/chapeau/grass_heads.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#bfb2a9</pcolor>
+    <scolor>#7f717e</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>In Peace</name>
+    <name xml:lang="en_GB">In Peace</name>
+    <filename>/usr/share/backgrounds/chapeau/in_peace.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#b4d2d2</pcolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Jet Streak</name>
+    <name xml:lang="en_GB">Jet Streak</name>
+    <filename>/usr/share/backgrounds/chapeau/jet_streak.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#0c0c0c</pcolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Misty Drive</name>
+    <name xml:lang="en_GB">Misty Drive</name>
+    <filename>/usr/share/backgrounds/chapeau/misty_drive.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#ebebeb</pcolor>
+    <scolor>#4e4e4e</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Mono Exterior Wall</name>
+    <name xml:lang="en_GB">Mono Exterior Wall</name>
+    <filename>/usr/share/backgrounds/chapeau/mono_exterior.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#ebebeb</pcolor>
+    <scolor>#4e4e4e</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Power Line Perspective</name>
+    <name xml:lang="en_GB">Power Line Perspective</name>
+    <filename>/usr/share/backgrounds/chapeau/power_line_perspective.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#dcd4c7</pcolor>
+    <scolor>#756b47</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Red Leaves</name>
+    <name xml:lang="en_GB">Red Leaves</name>
+    <filename>/usr/share/backgrounds/chapeau/red_leaves.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#2b3b4b</pcolor>
+    <scolor>#353744</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Sea Sunset</name>
+    <name xml:lang="en_GB">Sea Sunset</name>
+    <filename>/usr/share/backgrounds/chapeau/sea_sunset.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#497979</pcolor>
+    <scolor>#e49d71</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Solitary Cloud</name>
+    <name xml:lang="en_GB">Solitary Cloud</name>
+    <filename>/usr/share/backgrounds/chapeau/solitary_cloud.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#5593c4</pcolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Solitary Cloud with Chapeau Logo</name>
+    <name xml:lang="en_GB">Solitary Cloud with Chapeau Logo</name>
+    <filename>/usr/share/backgrounds/chapeau/solitary_cloud_branded.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#5593c4</pcolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Stormy Cornfield</name>
+    <name xml:lang="en_GB">Stormy Cornfield</name>
+    <filename>/usr/share/backgrounds/chapeau/stormy_cornfield.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#b3ad9d</pcolor>
+    <scolor>#837d6d</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Telegraph Poles</name>
+    <name xml:lang="en_GB">Telegraph Poles</name>
+    <filename>/usr/share/backgrounds/chapeau/telegraph_poles.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#b8d7e9</pcolor>
+    <scolor>#e8b77f</scolor>
   </wallpaper>
 </wallpapers>
