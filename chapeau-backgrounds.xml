@@ -2,6 +2,60 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
+    <name>Chapeau Water Blades</name>
+    <name xml:lang="en_GB">Chapeau Water Blades</name>
+    <filename>/usr/share/backgrounds/chapeau/chapeau_water_blades.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#efefe3</pcolor>
+    <scolor>#dedeba</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Water Blades</name>
+    <name xml:lang="en_GB">Water Blades</name>
+    <filename>/usr/share/backgrounds/chapeau/water_blades.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#efefe3</pcolor>
+    <scolor>#dedeba</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Glassy Wave</name>
+    <name xml:lang="en_GB">Glassy Wave</name>
+    <filename>/usr/share/backgrounds/chapeau/glassy_wave.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#50afe9</pcolor>
+    <scolor>#edd5a7</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Autumnal Evening</name>
+    <name xml:lang="en_GB">Autumnal Evening</name>
+    <filename>/usr/share/backgrounds/chapeau/autumnal_evening.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#d3d9cf</pcolor>
+    <scolor>#fef0d3</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Reaching Grass</name>
+    <name xml:lang="en_GB">Reaching Grass</name>
+    <filename>/usr/share/backgrounds/chapeau/reaching_grass.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#f7fce8</pcolor>
+    <scolor>#abd9cc</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Wooden Shadows</name>
+    <name xml:lang="en_GB">Wooden Shadows</name>
+    <filename>/usr/share/backgrounds/chapeau/wooden_shadows.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#4b4f52</pcolor>
+    <scolor>#8b8263</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Chapeau Grassy Logo</name>
     <name xml:lang="en_GB">Chapeau Grassy Logo</name>
     <filename>/usr/share/backgrounds/chapeau/chapeau_grassy_branded_wallpaper.jpg</filename>
